@@ -19,7 +19,7 @@ Follow the link: [https://datavisstella.web.app/]
 
 **Project Interface:**
 
-<img width="1434" alt="home_page" src="https://github.com/stellaWangg/Dataviz-project/assets/91721862/bed694e1-e081-43d0-995f-4e53086c3ad5">
+<img width="1403" alt="hp" src="https://github.com/stellaWangg/Dataviz-project/assets/91721862/6fbb4435-6ae2-45d3-8848-0094384e2f8c">
 Home page
 
 <img width="1440" alt="image" src="https://github.com/stellaWangg/Dataviz-project/assets/91721862/bfc9a829-8155-4148-8d6c-2707ff8e64fa">
