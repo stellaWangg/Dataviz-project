@@ -31,7 +31,7 @@ News page
 
 1. **Installation:**
 
-   - Clone the project repository from [GitHub]([https://github.com/stellaWangg/Dataviz-project/]).
+   - Clone the project repository from [GitHub](https://github.com/stellaWangg/Dataviz-project/).
 
 2. **Dependencies:**
 
