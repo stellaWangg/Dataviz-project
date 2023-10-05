@@ -12,7 +12,18 @@ Data-Visualization Website for Social Justice Issues
 **Project Overview:**
 This project is a web-based data visualization platform designed to raise awareness and engagement with social justice issues through interactive data visualizations. It provides a user-friendly and innovative interface to explore and understand complex social justice data.
 
----
+**Project Link:**
+
+This project is hosted using Firebase.
+Follow the link: [https://datavisstella.web.app/]
+
+**Project Interface:**
+
+<img width="1434" alt="home_page" src="https://github.com/stellaWangg/Dataviz-project/assets/91721862/bed694e1-e081-43d0-995f-4e53086c3ad5">
+Home page
+
+<img width="1440" alt="image" src="https://github.com/stellaWangg/Dataviz-project/assets/91721862/bfc9a829-8155-4148-8d6c-2707ff8e64fa">
+News page
 
 ---
 
@@ -20,34 +31,18 @@ This project is a web-based data visualization platform designed to raise awaren
 
 1. **Installation:**
 
-   - Clone the project repository from [GitHub](https://github.com/your-username/your-project-repo).
-   - Navigate to the project directory:
-     ```
-     cd your-project-directory
-     ```
+   - Clone the project repository from [GitHub]([https://github.com/stellaWangg/Dataviz-project/]).
 
-2. **Environment Setup:**
-
-   - Ensure you have Node.js installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
-
-3. **Dependencies:**
+2. **Dependencies:**
 
    - Install project dependencies using npm:
      ```
      npm install
      ```
 
-4. **Configuration:**
-
-   - Modify the configuration files as needed. Common configuration files include:
-     - `config.js`: Configure API endpoints and other settings.
-     - `data.csv`: Provide your data in CSV format.
-
+3. **Running project locally:**
+   ```
+   npm start
+   ```
 ---
 
-## **Running the Project:**
-
-To run the project locally, follow these steps:
-
-1. `npm install`
-2. `npm start`
